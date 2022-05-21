@@ -24,6 +24,7 @@ WHEN I refresh the page
 THEN the saved events persist
 
 ## Website Screenshot
+<img src ="./assets/images/website-screenshot.png">
 
 ## Website URL
 https://bgahan.github.io/CEB-Third-Party-APIs-Challenge-/
